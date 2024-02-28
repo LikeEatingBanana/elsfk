@@ -174,6 +174,9 @@ public class MyFrame extends JFrame implements KeyListener {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 	}
+	public void mytest() {
+		
+	}
 	
 	public static void main(String[] args) {
 		new  MyFrame().setVisible(true);
